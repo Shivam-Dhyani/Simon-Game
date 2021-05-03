@@ -14,6 +14,7 @@ Your task is to remember the button that is been played by the computer & then p
 At every iteration, the level will keep increasing as shown below 👇
 
 
+
 If you missed pressing any button in the sequence, then the game ends, as shown below 👇
 
 
