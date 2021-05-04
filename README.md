@@ -1,5 +1,5 @@
 # Simon-Game
-It is a **Memory Skill Game**, that helps to strengthen your memory capacity as you play it!!
+It is a **Memory Skill Game**, that helps you to strengthen your memory capacity as you play it!!
 
 **Instruction To Know Before Playing the Game**
 
