@@ -13,10 +13,12 @@ Your task is to remember the button that is been played by the computer & then p
 
 At every iteration, the level will keep increasing as shown below 👇
 
+![{2CC04E17-7184-4274-92A6-70B4299EB58C} png](https://user-images.githubusercontent.com/69079491/116949025-b23bb600-ac9e-11eb-955a-445d6bf1e4e3.jpg)
 
 
 If you missed pressing any button in the sequence, then the game ends, as shown below 👇
 
+![image](https://user-images.githubusercontent.com/69079491/116949045-bd8ee180-ac9e-11eb-9b8c-9b6680b25db9.png)
 
 
 To restart the game, you can press any key on the keyboard.
