@@ -11,7 +11,7 @@ To start the game as the message in the image says, you can click any button on 
 
 Your task is to remember the button that is been played by the computer & then press the sequence of buttons from the initial button played by the computer.
 
-At every iteration, the level will keep increasing as shown below 👇
+At every iteration, the level will keep increasing, as shown below 👇
 
 ![{2CC04E17-7184-4274-92A6-70B4299EB58C} png](https://user-images.githubusercontent.com/69079491/116949025-b23bb600-ac9e-11eb-955a-445d6bf1e4e3.jpg)
 
