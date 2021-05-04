@@ -6,6 +6,13 @@ It is a **Memory Skill Game**, that helps you to strengthen your memory capacity
 This is how the game looks like 👇
 
 
+
+
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/69079491/116880668-ec299f80-ac3f-11eb-84d2-2051c3488244.png)
 
 
