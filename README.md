@@ -1,6 +1,8 @@
 # Simon-Game
 It is a **Memory Skill Game**, that helps you to strengthen your memory capacity as you play it!!
 
+Click Here to play the Game -> [Simon Game](https://shivam-dhyani.github.io/Simon-Game/)  
+
 **Instruction To Know Before Playing the Game**
 
 This is how the game looks like 👇
@@ -22,5 +24,3 @@ If you missed pressing any button in the sequence, then the game ends, as shown 
 To restart the game, you can press any key on the keyboard.
 
 Now you are ready to play the game, go play and improve your memory capacity!!💪
-
-Click Here to play the Game -> [Simon Game](https://shivam-dhyani.github.io/Simon-Game/)   
